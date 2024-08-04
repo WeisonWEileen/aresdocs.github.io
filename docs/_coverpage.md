@@ -6,10 +6,10 @@
 </div>
 
 # 南方科技大学机器人社 
-#  ARES
+# ARES
 
 > ASSOCIATION OF ROBOTICS ENGINEERS AT SUSTECH
 
-- RC2025 期待你的加入！
+- RoboCon 2025 期待你的加入！
 
 
