@@ -2,7 +2,7 @@
 <!-- ![logo](assets/self.jpg) -->
 
 <div style="text-align: center;">
-<img src="assets/01.png" alt="Alt Text" width="360" height="240" />
+<img src="assets/02.png" alt="Alt Text" width="360" height="240" />
 </div>
 
 # 南方科技大学机器人社 
